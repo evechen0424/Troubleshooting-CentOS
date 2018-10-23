@@ -3,4 +3,4 @@
 
 # 已解決問題紀錄列表
 
-()[https://github.com/evechen0424/Troubleshooting-CentOS/issues/1]
+(test)[https://github.com/evechen0424/Troubleshooting-CentOS/issues/1]
